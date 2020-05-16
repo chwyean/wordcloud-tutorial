@@ -1,2 +1,2 @@
-Tutorial on python package: wordcloud
+Small tutorial on python package: wordcloud
 
